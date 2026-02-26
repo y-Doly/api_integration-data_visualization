@@ -37,15 +37,17 @@ This API provides historical COVID-19 data for countries worldwide.
 
 ---
 
-
----
-
-## ▶️ How to Run the Project
+## How to Run the Project
 
 ### Step 1: Install Required Libraries
 In command prompt
 pip innstall requests matplotlib
 
 ### Step 2: Run the Python Script
-python 
+python api_integration.py
+
+---
+
+## Output
+<img width="798" height="668" alt="image" src="https://github.com/user-attachments/assets/b0af52eb-35d6-4afe-819d-98fa8af8ff2d" />
 
